@@ -1,0 +1,61 @@
+
+
+.whole {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main_container {
+    width: 350px;
+    height: 350px;
+    border: 1px solid #E6E6E6
+}
+
+.img {
+    margin: 20px 0;
+    display: flex;
+    justify-content: center;
+}
+
+.log_in {
+    display: flex;
+    flex-direction: column;
+    height: 50%;
+}
+
+
+
+.para {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    height: 20%;
+}
+
+input {
+    font-size: 16px;
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid #EFEFEF;
+    background-color: #FAFAFA;
+    height: 30px;
+    margin: 10px 20px 0px 20px;
+}
+
+button {
+    color: white;
+    background-color: #C6E0FA;
+    border-radius: 5px;
+    border: 1px solid;
+    font-style: georgia;
+    height: 30px;
+    margin: 20px 20px 0px 20px;
+    font-size: 15px;
+}
+
+
+p {
+    font-size: 14px;
+}
