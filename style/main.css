@@ -2,6 +2,8 @@ body {
     background-color: #FAFAFA;
 }
 nav {
+    position: relative;
+    top: 0;
     width: 100%;
     z-index: 1;
     height: 70px;
@@ -319,3 +321,7 @@ span.right {
     color: #B0B0B0;
 }
 
+p button {
+    border: none;
+    color: #B2B2B2;
+}
